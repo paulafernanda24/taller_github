@@ -1,6 +1,7 @@
 # taller_github (título grande)
 **fecha en negrita** 
-*en cursiva*
+*en cursiva* 
+
 ## (subtítulo)
 ###(subtítulo pequeño)
 ## contenidos
