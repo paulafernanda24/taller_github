@@ -1,4 +1,4 @@
-# Auxiliatura_Python_materiaoscura (título grande)
+# Auxiliatura_Python_materiaoscura 
 **Contribuidores:** Paula Fernanda Salazar y Juan Carlos Basto
 *en cursiva* 
 *En este repositorio se encuentra el trabajo realizado en python para la construcción de masa acumulada y perfiles de densidad de materia oscura, basado en datos tomados a partir de una simulación y teniendo como referencia bibliográfica que se encuentra en la respectiva sección.
